@@ -2,8 +2,8 @@
 
 ## Gruppemedlemmer
 
-* Ola Nordmann
-* Kari Nordmann
+* Ola Eksempel
+* Kari Mal
 
 ## Kvalitetssikring
 
