@@ -1,0 +1,7 @@
+image: gossin/iikos-ci:latest
+pipelines:
+  default:
+    - step:
+        script:
+          - find . -type f -name '*.c' | xargs --no-run-if-empty -n1 gcc -pthread -Wall
+          - clang-tidy -checks='*' *.c --
