@@ -1,4 +1,4 @@
-# Obligatorisk oppgave 1 - Prosesser, tråder og synkronisering
+# Obligatorisk oppgave 1 - C-programmering med prosesser, tråder og synkronisering
 
 Denne oppgaven består av følgende laboppgaver fra kompendiet:
 
