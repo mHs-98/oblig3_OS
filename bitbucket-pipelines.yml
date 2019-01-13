@@ -3,5 +3,5 @@ pipelines:
   default:
     - step:
         script:
-          - find . -type f -name '*.c' | xargs --no-run-if-empty -n1 gcc -pthread -Wall
-          - clang-tidy -checks='*' *.c --
+          - find . -type f -name '*.c' | xargs --no-run-if-empty -n1 gcc -pthread -Wall -Werror
+          - clang-tidy -checks='*' -warnings-as-errors='*' *.c --
