@@ -1,11 +1,11 @@
-# Obligatorisk oppgave 1 - C-programmering med prosesser, tråder og synkronisering
+# Obligatorisk oppgave 2 - Bash pipelines og scripting
 
 Denne oppgaven består av følgende laboppgaver fra kompendiet:
 
-* 4.5.b (Lage nye prosesser og enkel synkronisering av disse)
-* 5.6.a (Lage nye tråder og enkel semafor-synkronisering av disse)
-* 5.6.b (Flere Producere og Consumere)
-* 6.10.a (Dining philosophers)
+* 7.5.a (Prosesser og tråder)
+* 8.6.c (Page faults)
+* 8.6.d (En prosess sin bruk av virtuelt og fysisk minne)
+* 9.4.a (Informasjon om deler av filsystemet)
 
 SE OPPGAVETEKST I KOMPENDIET. HUSK Å REDIGER TEKSTEN NEDENFOR!
 
