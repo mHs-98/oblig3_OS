@@ -1,6 +1,6 @@
 # Obligatorisk oppgave 2 - Bash pipelines og scripting
 
-Denne oppgaven består av følgende laboppgaver fra kompendiet:
+Denne oppgaven består av de følgende laboppgavene fra kompendiet:
 
 * 7.5.a (Prosesser og tråder)
 * 8.6.c (Page faults)
