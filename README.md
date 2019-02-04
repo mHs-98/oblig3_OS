@@ -1,11 +1,11 @@
-# Obligatorisk oppgave 2 - Bash pipelines og scripting
+# Obligatorisk oppgave 3 - PowerShell pipelines og scripting
 
 Denne oppgaven består av de følgende laboppgavene fra kompendiet:
 
-* 7.5.a (Prosesser og tråder)
-* 8.6.c (Page faults)
-* 8.6.d (En prosess sin bruk av virtuelt og fysisk minne)
-* 9.4.a (Informasjon om deler av filsystemet)
+* 11.6.b (Prosesser og tråder)
+* 12.4.c (En prosess sin bruk av virtuelt og fysisk minne)
+* 13.10.b (Prosesser og tråder)
+* 13.10.c (Informasjon om deler av filsystemet)
 
 SE OPPGAVETEKST I KOMPENDIET. HUSK Å REDIGER TEKSTEN NEDENFOR!
 

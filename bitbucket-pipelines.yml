@@ -3,5 +3,4 @@ pipelines:
   default:
     - step:
         script:
-          - find . -type f -name '*.bash' | xargs --no-run-if-empty -n1 bash -n
-          - shellcheck *.bash
+          - pwsh -Command 'Invoke-ScriptAnalyzer -EnableExit *.ps1'
