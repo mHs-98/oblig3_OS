@@ -41,7 +41,7 @@ resources:
   server:
     type: OS::Nova::Server
     properties:
-      image: Windows Server 2019 Standard Evaluation
+      image: 'Windows Server 2019 Standard [Evaluation]'
       flavor: m1.medium
       key_name: { get_param: key_name }
       networks:
